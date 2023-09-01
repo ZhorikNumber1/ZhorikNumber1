@@ -1,1 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+   <img alt="Coding" width="60" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
+
